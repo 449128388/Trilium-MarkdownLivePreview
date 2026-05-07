@@ -1,0 +1,98 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.100.0",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "lnRTPMewKmUW",
+			"notePath": [
+				"lnRTPMewKmUW"
+			],
+			"title": "Widget",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [],
+			"format": "html",
+			"attachments": [],
+			"dirFileName": "Widget",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "KOuUD2yLSKk4",
+					"notePath": [
+						"lnRTPMewKmUW",
+						"KOuUD2yLSKk4"
+					],
+					"title": "MarkdownLivePreview",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "code",
+					"mime": "application/javascript;env=frontend",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "widget",
+							"value": "",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
+					"dataFileName": "MarkdownLivePreview.js",
+					"attachments": [],
+					"dirFileName": "MarkdownLivePreview",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "RlABdV3rVnln",
+							"notePath": [
+								"lnRTPMewKmUW",
+								"KOuUD2yLSKk4",
+								"RlABdV3rVnln"
+							],
+							"title": "marked-lib",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "file",
+							"mime": "text/javascript",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "marked.min.js",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "label",
+									"name": "mime",
+									"value": "application/javascript",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"dataFileName": "marked-lib.js",
+							"attachments": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
