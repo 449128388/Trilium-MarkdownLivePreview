@@ -1,0 +1,2 @@
+# Trilium-MarkdownLivePreview
+一个用于Trilium笔记的插件，可实时预览Markdown文件
