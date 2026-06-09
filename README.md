@@ -9,6 +9,9 @@
 - 可同步的滚动条
 - 支持包括表格等功能
 
+## 实际效果
+<img width="1875" height="1245" alt="image" src="https://github.com/user-attachments/assets/735fa4f6-fe42-47f3-90b4-6290964f1eda" />
+
 ## 安装
 
 1. 从 GitHub 的 [最新发布](https://github.com/449128388/Trilium-MarkdownLivePreview 页面下载 `zip` 文件。
